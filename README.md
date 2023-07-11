@@ -1,5 +1,5 @@
 <h1 align="center">NAGA BALAJI REDDY GOLUGURI</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Balajireddy_2002&label=Profile%20views&color=0e75b6&style=flat" alt="Balajireddy_2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Balajireddy2002&label=Profile%20views&color=0e75b6&style=flat" alt="Balajireddy2002" /> </p>
 
 
 <p align="center">
