@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="20a91a0582@aec.edu.in"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/sunil-noolu/](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFqcDJQphbb8AAA)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[[https://www.linkedin.com/in/naga-balaji-reddy-goluguri-90283b212//](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFqcDJQphbb8AAA)](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFqcDJQphbb8AAA)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
 </p>
 
@@ -22,11 +22,11 @@
 
 
 
-[![Sunil's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=noolusunil)](https://auth.geeksforgeeks.org/user/noolusunil)
+[![Sunil's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nagabalajireddy)](https://auth.geeksforgeeks.org/user/nagabalajireddy)
 
 
 
-[![](https://leetcard.jacoblin.cool/Sunil-1508?theme=dark)](https://leetcode.com/Sunil-1508/)
+[![](https://leetcard.jacoblin.cool/Sunil-1508?theme=dark)](https://leetcode.com/BalajiReddy_2002/)
 
 
 
