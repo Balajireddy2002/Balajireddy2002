@@ -26,7 +26,7 @@
 
 
 
-[![](https://leetcard.jacoblin.cool/Sunil-1508?theme=dark)](https://leetcode.com/BalajiReddy_2002/)
+[![](https://leetcard.jacoblin.cool/BalajiReddy_2002?theme=dark)](https://leetcode.com/BalajiReddy_2002/)
 
 
 
