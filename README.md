@@ -1,4 +1,6 @@
 <h1 align="center">NAGA BALAJI REDDY GOLUGURI</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Balajireddy_2002&label=Profile%20views&color=0e75b6&style=flat" alt="Balajireddy_2002" /> </p>
+
 
 <p align="center">
   <a href="20a91a0582@aec.edu.in"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
