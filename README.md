@@ -25,7 +25,7 @@
 
 
 
-[![Sunil's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nagabalajireddy)](https://auth.geeksforgeeks.org/user/nagabalajireddy)
+[![Balaji's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nagabalajireddy)](https://auth.geeksforgeeks.org/user/nagabalajireddy)
 
 
 
